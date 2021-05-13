@@ -1,6 +1,6 @@
 #!/bin/bash
-chmod -R 777 /var/www/html/WordPress
+chmod -R 764 /var/www/html/WordPress
 
 #Make all of your scripts executable.
 
-#chmod +x /tmp/WordPress/scripts/*
+chmod +x /tmp/WordPress/scripts/*
